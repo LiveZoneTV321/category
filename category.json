@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "akashgo",
+      "title": "Akash Go",
+      "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "ayna",
+      "title": "Ayna",
+      "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "bangladesh",
+      "title": "Bangladesh",
+      "logo": "https://i.postimg.cc/GtPtQk4F/bangladesh-logo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "comedy",
+      "title": "Comedy",
+      "logo": "https://i.postimg.cc/598XbMsy/comedy.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "crichd",
+      "title": "CricHD",
+      "logo": "https://i.postimg.cc/yYBkNrGQ/crichd.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "distrotv",
+      "title": "Distro tv",
+      "logo": "https://i.postimg.cc/zXj3HFZZ/distrotv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "documentary",
+      "title": "Documentary",
+      "logo": "https://i.postimg.cc/T331V5fT/documentary.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "logo": "https://i.postimg.cc/cLkHX1LT/education.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "entertainment",
+      "title": "Entertainment",
+      "logo": "https://i.postimg.cc/XvZvhMrH/entertainment.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "fancode",
+      "title": "Fancode",
+      "logo": "https://i.postimg.cc/W4D4KRD4/fancode.png",
+      "playlistUrl": "",
+      "enabled": true
+    }
+  ]
+}
