@@ -4,21 +4,21 @@
       "id": "akashgo",
       "title": "Akash Go",
       "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/livezone_tv/refs/heads/main/akash.m3u",
       "enabled": true
     },
     {
       "id": "ayna",
       "title": "Ayna",
       "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/bangladesh/refs/heads/main/bang.m3u",
       "enabled": true
     },
     {
       "id": "bangladesh",
       "title": "Bangladesh",
       "logo": "https://i.postimg.cc/GtPtQk4F/bangladesh-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/Rangon500/1234556/refs/heads/main/BDIX.m3u",
       "enabled": true
     },
     {
