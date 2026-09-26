@@ -1,58 +1,37 @@
 {
   "categories": [
     {
-      "id": "akashgo",
-      "title": "Akash Go",
-      "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
-      "playlistUrl": "https://raw.githubusercontent.com/sajal620/livezone_tv/refs/heads/main/akash.m3u",
-      "enabled": true
-    },
-    {
-      "id": "ayna",
-      "title": "Ayna",
-      "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
-      "playlistUrl": "https://raw.githubusercontent.com/sajal620/bangladesh/refs/heads/main/bang.m3u",
-      "enabled": true
-    },
-    {
-      "id": "bangladesh",
-      "title": "Bangladesh",
-      "logo": "https://i.postimg.cc/GtPtQk4F/bangladesh-logo.png",
-      "playlistUrl": "https://raw.githubusercontent.com/Rangon500/1234556/refs/heads/main/BDIX.m3u",
-      "enabled": true
-    },
-    {
-      "id": "comedy",
-      "title": "Comedy",
-      "logo": "https://i.postimg.cc/598XbMsy/comedy.png",
+      "id": "sports",
+      "title": "Sports",
+      "logo": "https://i.postimg.cc/K8073rK1/sports-logo.png",
       "playlistUrl": "",
       "enabled": true
     },
     {
-      "id": "crichd",
-      "title": "CricHD",
-      "logo": "https://i.postimg.cc/yYBkNrGQ/crichd.png",
+      "id": "movies",
+      "title": "Movies",
+      "logo": "https://i.postimg.cc/BvwCkcsy/movies-logo.png",
       "playlistUrl": "",
       "enabled": true
     },
     {
-      "id": "distrotv",
-      "title": "Distro tv",
-      "logo": "https://i.postimg.cc/zXj3HFZZ/distrotv.png",
+      "id": "news",
+      "title": "News",
+      "logo": "https://i.postimg.cc/k40vXJ2c/news-logo.png",
       "playlistUrl": "",
       "enabled": true
     },
     {
-      "id": "documentary",
-      "title": "Documentary",
-      "logo": "https://i.postimg.cc/T331V5fT/documentary.png",
+      "id": "music",
+      "title": "Music",
+      "logo": "https://i.postimg.cc/C1B4gBxV/music-logo.png",
       "playlistUrl": "",
       "enabled": true
     },
     {
-      "id": "education",
-      "title": "Education",
-      "logo": "https://i.postimg.cc/cLkHX1LT/education.png",
+      "id": "kids",
+      "title": "Kids",
+      "logo": "https://i.postimg.cc/pLCCYMSr/kids.png",
       "playlistUrl": "",
       "enabled": true
     },
@@ -64,9 +43,219 @@
       "enabled": true
     },
     {
+      "id": "education",
+      "title": "Education",
+      "logo": "https://i.postimg.cc/cLkHX1LT/education.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "religious",
+      "title": "Religious",
+      "logo": "https://i.postimg.cc/5NqSbMbC/religious.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "documentary",
+      "title": "Documentary",
+      "logo": "https://i.postimg.cc/T331V5fT/documentary.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "comedy",
+      "title": "Comedy",
+      "logo": "https://i.postimg.cc/598XbMsy/comedy.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "bangladesh",
+      "title": "Bangladesh",
+      "logo": "https://i.postimg.cc/GtPtQk4F/bangladesh-logo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "india",
+      "title": "India",
+      "logo": "https://i.postimg.cc/6qZzd2ss/india-logo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "pakistan",
+      "title": "Pakistan",
+      "logo": "https://i.postimg.cc/RhwQWktg/pakistan.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "livezontv",
+      "title": "LiveZone TV",
+      "logo": "",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "toffeebd",
+      "title": "Toffee BD",
+      "logo": "https://i.postimg.cc/fL9YPG8h/toffee-logo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "toffeebd2",
+      "title": "Toffee BD 2",
+      "logo": "https://i.postimg.cc/wvmDrCwv/toffeebd2.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "zee5",
+      "title": "Zee5",
+      "logo": "https://i.postimg.cc/qM02mZyp/zee5.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "akashgo",
+      "title": "Akash Go",
+      "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "ayna",
+      "title": "Ayna",
+      "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "yupptv",
+      "title": "YuppTV",
+      "logo": "https://i.postimg.cc/7PSgnyCs/yupptv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "sun",
+      "title": "Sun Nxt",
+      "logo": "https://i.postimg.cc/FK1yydcJ/sun.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "jiotv",
+      "title": "JioTv",
+      "logo": "https://i.postimg.cc/bwpLtw3F/jiotv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "sonyliv",
+      "title": "SonyLiv",
+      "logo": "https://i.postimg.cc/T3tj5qKs/sonyliv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "tapmad",
+      "title": "Tapmad",
+      "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "willow",
+      "title": "Willow",
+      "logo": "https://i.postimg.cc/Hn0XYQDD/willow.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "tsports",
+      "title": "Tsports",
+      "logo": "https://i.postimg.cc/C5pbpc2D/tsports.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
       "id": "fancode",
       "title": "Fancode",
       "logo": "https://i.postimg.cc/W4D4KRD4/fancode.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "oopstv",
+      "title": "OopsTv",
+      "logo": "https://i.postimg.cc/ZYNLsdQx/oopstv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "ipstream",
+      "title": "IP Stream",
+      "logo": "https://i.postimg.cc/xTr69RHn/ipstream.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "lgtv",
+      "title": "LGTV",
+      "logo": "https://i.postimg.cc/R00Rgbrw/lgtv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "plex",
+      "title": "Plex",
+      "logo": "https://i.postimg.cc/hPq1kGW4/plutotv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "plutotv",
+      "title": "PlutoTv",
+      "logo": "https://i.postimg.cc/hPq1kGW4/plutotv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "samsung",
+      "title": "Samsung",
+      "logo": "https://i.postimg.cc/ZKFx4h4V/samsung.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "distrotv",
+      "title": "Distro tv",
+      "logo": "https://i.postimg.cc/zXj3HFZZ/distrotv.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "crichd",
+      "title": "CricHD",
+      "logo": "https://i.postimg.cc/yYBkNrGQ/crichd.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "tubi",
+      "title": "TUBI",
+      "logo": "https://i.postimg.cc/vTw5w0Kj/tubi.png",
+      "playlistUrl": "",
+      "enabled": true
+    },
+    {
+      "id": "xumo",
+      "title": "XUMO",
+      "logo": "https://i.postimg.cc/0jGDkpRN/xumo.png",
       "playlistUrl": "",
       "enabled": true
     }
