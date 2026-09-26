@@ -4,259 +4,259 @@
       "id": "sports",
       "title": "Sports",
       "logo": "https://i.postimg.cc/K8073rK1/sports-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://live-events.frosttdrift.workers.dev/events.m3u",
       "enabled": true
     },
     {
       "id": "movies",
       "title": "Movies",
       "logo": "https://i.postimg.cc/BvwCkcsy/movies-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
       "enabled": true
     },
     {
       "id": "news",
       "title": "News",
       "logo": "https://i.postimg.cc/k40vXJ2c/news-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/news.m3u",
       "enabled": true
     },
     {
       "id": "music",
       "title": "Music",
       "logo": "https://i.postimg.cc/C1B4gBxV/music-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/music.m3u",
       "enabled": true
     },
     {
       "id": "kids",
       "title": "Kids",
       "logo": "https://i.postimg.cc/pLCCYMSr/kids.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/kids.m3u",
       "enabled": true
     },
     {
       "id": "entertainment",
       "title": "Entertainment",
       "logo": "https://i.postimg.cc/XvZvhMrH/entertainment.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
       "enabled": true
     },
     {
       "id": "education",
       "title": "Education",
       "logo": "https://i.postimg.cc/cLkHX1LT/education.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/education.m3u",
       "enabled": true
     },
     {
       "id": "religious",
       "title": "Religious",
       "logo": "https://i.postimg.cc/5NqSbMbC/religious.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/religious.m3u",
       "enabled": true
     },
     {
       "id": "documentary",
       "title": "Documentary",
       "logo": "https://i.postimg.cc/T331V5fT/documentary.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
       "enabled": true
     },
     {
       "id": "comedy",
       "title": "Comedy",
       "logo": "https://i.postimg.cc/598XbMsy/comedy.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/comedy.m3u",
       "enabled": true
     },
     {
       "id": "bangladesh",
       "title": "Bangladesh",
       "logo": "https://i.postimg.cc/GtPtQk4F/bangladesh-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/bangladesh/refs/heads/main/bang.m3u",
       "enabled": true
     },
     {
       "id": "india",
       "title": "India",
       "logo": "https://i.postimg.cc/6qZzd2ss/india-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/countries/in.m3u",
       "enabled": true
     },
     {
       "id": "pakistan",
       "title": "Pakistan",
       "logo": "https://i.postimg.cc/RhwQWktg/pakistan.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-org.github.io/iptv/countries/pk.m3u",
       "enabled": true
     },
     {
       "id": "livezontv",
       "title": "LiveZone TV",
       "logo": "",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/LiveZoneTV/refs/heads/main/LiveZoneTV.m3u",
       "enabled": true
     },
     {
       "id": "toffeebd",
       "title": "Toffee BD",
       "logo": "https://i.postimg.cc/fL9YPG8h/toffee-logo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u",
       "enabled": true
     },
     {
       "id": "toffeebd2",
       "title": "Toffee BD 2",
       "logo": "https://i.postimg.cc/wvmDrCwv/toffeebd2.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://tv9.workerbot-tv9.workers.dev/toffee.m3u",
       "enabled": true
     },
     {
       "id": "zee5",
       "title": "Zee5",
       "logo": "https://i.postimg.cc/qM02mZyp/zee5.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://playlists-by-playztv.pages.dev/disttv-playztv.m3u",
       "enabled": true
     },
     {
       "id": "akashgo",
       "title": "Akash Go",
       "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/livezone_tv/refs/heads/main/akash.m3u",
       "enabled": true
     },
     {
       "id": "ayna",
       "title": "Ayna",
       "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/Ayna-BDIX-IPTV-Playlist/refs/heads/main/ayna-playlist.m3u",
       "enabled": true
     },
     {
       "id": "yupptv",
       "title": "YuppTV",
       "logo": "https://i.postimg.cc/7PSgnyCs/yupptv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sajal620/yupptv/refs/heads/main/yupptv.m3u",
       "enabled": true
     },
     {
       "id": "sun",
       "title": "Sun Nxt",
       "logo": "https://i.postimg.cc/FK1yydcJ/sun.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://playlist-share-abux.pages.dev/sun-network.m3u",
       "enabled": true
     },
     {
       "id": "jiotv",
       "title": "JioTv",
       "logo": "https://i.postimg.cc/bwpLtw3F/jiotv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/jio_tv.m3u",
       "enabled": true
     },
     {
       "id": "sonyliv",
       "title": "SonyLiv",
       "logo": "https://i.postimg.cc/T3tj5qKs/sonyliv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/sonyLiv.m3u",
       "enabled": true
     },
     {
       "id": "tapmad",
       "title": "Tapmad",
       "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
       "enabled": true
     },
     {
       "id": "willow",
       "title": "Willow",
       "logo": "https://i.postimg.cc/Hn0XYQDD/willow.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
       "enabled": true
     },
     {
       "id": "tsports",
       "title": "Tsports",
       "logo": "https://i.postimg.cc/C5pbpc2D/tsports.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u",
       "enabled": true
     },
     {
       "id": "fancode",
       "title": "Fancode",
       "logo": "https://i.postimg.cc/W4D4KRD4/fancode.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/Fancode_Auto_Update_Playlist/refs/heads/main/fancode_bd.m3u",
       "enabled": true
     },
     {
       "id": "oopstv",
       "title": "OopsTv",
       "logo": "https://i.postimg.cc/ZYNLsdQx/oopstv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u",
       "enabled": true
     },
     {
       "id": "ipstream",
       "title": "IP Stream",
       "logo": "https://i.postimg.cc/xTr69RHn/ipstream.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/abusaeeidx/IP-Stream/refs/heads/main/playlist.m3u",
       "enabled": true
     },
     {
       "id": "lgtv",
       "title": "LGTV",
       "logo": "https://i.postimg.cc/R00Rgbrw/lgtv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/LGTV-Schedule.m3u",
       "enabled": true
     },
     {
       "id": "plex",
       "title": "Plex",
       "logo": "https://i.postimg.cc/hPq1kGW4/plutotv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/Plex-All.m3u",
       "enabled": true
     },
     {
       "id": "plutotv",
       "title": "PlutoTv",
       "logo": "https://i.postimg.cc/hPq1kGW4/plutotv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/PlutoTV-All.m3u",
       "enabled": true
     },
     {
       "id": "samsung",
       "title": "Samsung",
       "logo": "https://i.postimg.cc/ZKFx4h4V/samsung.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/SamsungTVPlus-All.m3u",
       "enabled": true
     },
     {
       "id": "distrotv",
       "title": "Distro tv",
       "logo": "https://i.postimg.cc/zXj3HFZZ/distrotv.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/distrotv.m3u",
       "enabled": true
     },
     {
       "id": "crichd",
       "title": "CricHD",
       "logo": "https://i.postimg.cc/yYBkNrGQ/crichd.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/CricHD.m3u",
       "enabled": true
     },
     {
       "id": "tubi",
       "title": "TUBI",
       "logo": "https://i.postimg.cc/vTw5w0Kj/tubi.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/tubi_playlist.m3u",
       "enabled": true
     },
     {
       "id": "xumo",
       "title": "XUMO",
       "logo": "https://i.postimg.cc/0jGDkpRN/xumo.png",
-      "playlistUrl": "",
+      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u",
       "enabled": true
     }
   ]
