@@ -165,7 +165,7 @@
       "id": "tapmad",
       "title": "Tapmad",
       "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
-      "playlistUrl": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
+      "playlistUrl": "https://iptv-org.github.io/api/countries.json",
       "enabled": true
     },
     {
