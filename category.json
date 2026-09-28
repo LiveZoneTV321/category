@@ -165,7 +165,7 @@
       "id": "tapmad",
       "title": "Tapmad",
       "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
-      "playlistUrl": "https://iptv-org.github.io/api/countries.json",
+      "playlistUrl": "https://raw.githubusercontent.com/LiveZoneTV321/LiveZoneTV/refs/heads/main/livezone.json",
       "enabled": true
     },
     {
