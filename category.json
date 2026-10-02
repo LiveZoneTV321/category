@@ -95,7 +95,7 @@
       "id": "livezontv",
       "title": "LiveZone TV",
       "logo": "",
-      "playlistUrl": "https://raw.githubusercontent.com/sajal620/LiveZoneTV/refs/heads/main/LiveZoneTV.m3u",
+      "playlistUrl": "https://b1d2d784.livezonetv-ba8.pages.dev/livezone.json",
       "enabled": true
     },
     {
@@ -165,7 +165,7 @@
       "id": "tapmad",
       "title": "Tapmad",
       "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
-      "playlistUrl": "https://raw.githubusercontent.com/LiveZoneTV321/LiveZoneTV/refs/heads/main/livezone.json",
+      "playlistUrl": "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u",
       "enabled": true
     },
     {
