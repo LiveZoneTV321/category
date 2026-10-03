@@ -127,6 +127,13 @@
       "enabled": true
     },
     {
+      "id": "jagobd",
+      "title": "Jago BD",
+      "logo": "https://i.postimg.cc/KjFDDMpR/unnamed.png",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/jago_bd_auto_update_playlist-/refs/heads/main/jago_bd.m3u",
+      "enabled": true
+    },
+    {
       "id": "ayna",
       "title": "Ayna",
       "logo": "https://i.postimg.cc/1X14wW3S/ayna.png",
@@ -162,6 +169,13 @@
       "enabled": true
     },
     {
+      "id": "sonyliv Sports ",
+      "title": "SonyLiv",
+      "logo": "https://i.postimg.cc/T3tj5qKs/sonyliv.png",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SonyLiv_Event_Playlist/refs/heads/main/sonyLiv.m3u",
+      "enabled": true
+    },
+    {
       "id": "tapmad",
       "title": "Tapmad",
       "logo": "https://i.postimg.cc/ZqgrVbFL/tapmad.png",
@@ -192,7 +206,7 @@
     {
       "id": "oopstv",
       "title": "OopsTv",
-      "logo": "https://i.postimg.cc/ZYNLsdQx/oopstv.png",
+      "logo": "",
       "playlistUrl": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u",
       "enabled": true
     },
@@ -213,7 +227,7 @@
     {
       "id": "plex",
       "title": "Plex",
-      "logo": "https://i.postimg.cc/hPq1kGW4/plutotv.png",
+      "logo": "https://i.postimg.cc/ZYNLsdQx/oopstv.png",
       "playlistUrl": "https://iptv-scraper-zilla.pages.dev/Plex-All.m3u",
       "enabled": true
     },
