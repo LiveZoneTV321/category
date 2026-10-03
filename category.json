@@ -169,7 +169,7 @@
       "enabled": true
     },
     {
-      "id": "sonyliv Sports ",
+      "id": "sonyliv Sports",
       "title": "SonyLiv",
       "logo": "https://i.postimg.cc/T3tj5qKs/sonyliv.png",
       "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SonyLiv_Event_Playlist/refs/heads/main/sonyLiv.m3u",
@@ -206,7 +206,7 @@
     {
       "id": "oopstv",
       "title": "OopsTv",
-      "logo": "",
+      "logo": "https://i.postimg.cc/xCF9Kv16/unnamed-(1).png",
       "playlistUrl": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u",
       "enabled": true
     },
