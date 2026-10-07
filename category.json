@@ -127,6 +127,13 @@
       "enabled": true
     },
     {
+      "id": "akashgo2",
+      "title": "Akash Go 2",
+      "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/akash_go.m3u",
+      "enabled": true
+    },
+    {
       "id": "jagobd",
       "title": "Jago BD",
       "logo": "https://i.postimg.cc/wT81djqr/Jago-bd-com-Green-Circle-Logo-(1)-Photoroom.png",
