@@ -94,7 +94,7 @@
     {
       "id": "livezontv",
       "title": "LiveZone TV",
-      "logo": "",
+      "logo": "https://i.postimg.cc/Kz77tb5J/Neon-Retro-TV-Play-Badge-Photoroom.png",
       "playlistUrl": "https://livezonetv-ba8.pages.dev/livezone.json",
       "enabled": true
     },
