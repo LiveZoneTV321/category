@@ -263,7 +263,7 @@
       "id": "crichd",
       "title": "CricHD",
       "logo": "https://i.postimg.cc/yYBkNrGQ/crichd.png",
-      "playlistUrl": "https://iptv-scraper-zilla.pages.dev/CricHD.m3u",
+      "playlistUrl": "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u",
       "enabled": true
     },
     {
