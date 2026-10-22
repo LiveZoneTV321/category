@@ -11,7 +11,7 @@
       "id": "movies",
       "title": "Movies",
       "logo": "https://i.postimg.cc/BvwCkcsy/movies-logo.png",
-      "playlistUrl": "http://dgda92.com:80/player_api.php?username=RodrigoVivas&password=BQFVZK8HAc",
+      "playlistUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
       "enabled": true
     },
     {
