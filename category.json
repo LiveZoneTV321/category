@@ -8,13 +8,6 @@
       "enabled": true
     },
     {
-      "id": "banglanews",
-      "title": "Bangla News",
-      "logo": "https://i.postimg.cc/K8073rK1/sports-logo.png",
-      "playlistUrl": "https://raw.githubusercontent.com/LiveZoneTV321/BD-News/refs/heads/main/BDNews.json",
-      "enabled": true
-    },
-    {
       "id": "movies",
       "title": "Movies",
       "logo": "https://i.postimg.cc/BvwCkcsy/movies-logo.png",
