@@ -286,6 +286,20 @@
       "logo": "https://i.postimg.cc/bNLj2PKL/Ashoka-Digital-Magenta-TV-Badge-Photoroom.png",
       "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ashokadigital.m3u",
       "enabled": true
+    },
+    {
+      "id": "dishd2h",
+      "title": "Dish D2H",
+      "logo": "https://i.postimg.cc/gjfFGyj5/Dish-TV-d2h-Gradient-Logo-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/dishd2h.m3u",
+      "enabled": true
+    },
+    {
+      "id": "fastvjp",
+      "title": "Fast Tv jp",
+      "logo": "https://i.postimg.cc/gjfFGyj7/Neon-Fast-TV-Streaming-Badge-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/fastvjp.m3u",
+      "enabled": true
     }
   ]
 }
