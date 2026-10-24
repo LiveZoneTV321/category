@@ -279,6 +279,13 @@
       "logo": "https://i.postimg.cc/0jGDkpRN/xumo.png",
       "playlistUrl": "https://iptv-scraper-zilla.pages.dev/xumo_playlist.m3u",
       "enabled": true
+    },
+    {
+      "id": "ashokadigital",
+      "title": "Ashoka Digital",
+      "logo": "https://i.postimg.cc/bNLj2PKL/Ashoka-Digital-Magenta-TV-Badge-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/ashokadigital.m3u",
+      "enabled": true
     }
   ]
 }
