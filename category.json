@@ -330,7 +330,7 @@
       "enabled": true
     },
     {
-      "id": "pishow",
+      "id": "pishowtv",
       "title": "Pishow TV",
       "logo": "https://i.postimg.cc/VvZrmWSL/Glossy-Pi-SHOW-Orange-Badge-Photoroom.png",
       "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/pishow.m3u",
