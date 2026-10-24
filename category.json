@@ -301,5 +301,19 @@
       "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/fastvjp.m3u",
       "enabled": true
     }
+    {
+      "id": "maduraiiptv",
+      "title": "Madurai Iptv.",
+      "logo": "https://i.postimg.cc/DZHr25kw/Bengali-IPTV-Temple-Badge-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/maduraiiptv.m3u",
+      "enabled": true
+    },
+    {
+      "id": "nelentv",
+      "title": "Nelen TV",
+      "logo": "https://i.postimg.cc/zBgjH4kx/Blue-Circle-Emblem-with-NELEN-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/nelen.m3u",
+      "enabled": true
+    }
   ]
 }
