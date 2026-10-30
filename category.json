@@ -85,6 +85,13 @@
       "enabled": true
     },
     {
+      "id": "nepal",
+      "title": "Nepal",
+      "logo": "https://i.postimg.cc/D0WBpgKw/Nepal-Himalayan-Heritage-Emblem-Photoroom.png",
+      "playlistUrl": "https://iptv-org.github.io/iptv/countries/np.m3u",
+      "enabled": true
+    },
+    {
       "id": "pakistan",
       "title": "Pakistan",
       "logo": "https://i.postimg.cc/RhwQWktg/pakistan.png",
