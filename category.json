@@ -106,6 +106,13 @@
       "enabled": true
     },
     {
+      "id": "bdix2",
+      "title": "BDIX 2",
+      "logo": "https://i.postimg.cc/cL2d5hpt/BDIX-Live-Zone-TV-Badge-Logo-Photoroom.png",
+      "playlistUrl": "http://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u",
+      "enabled": true
+    },
+    {
       "id": "livezontv",
       "title": "LiveZone TV",
       "logo": "https://i.postimg.cc/ydTQsc26/ee-Photoroom.png",
