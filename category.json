@@ -99,6 +99,13 @@
       "enabled": true
     },
     {
+      "id": "bdix1",
+      "title": "BDIX 1",
+      "logo": "https://i.postimg.cc/cL2d5hpt/BDIX-Live-Zone-TV-Badge-Logo-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/bushmr263-ship-it/online-tv/main/playlist.m3u",
+      "enabled": true
+    },
+    {
       "id": "livezontv",
       "title": "LiveZone TV",
       "logo": "https://i.postimg.cc/ydTQsc26/ee-Photoroom.png",
