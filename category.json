@@ -144,14 +144,7 @@
       "id": "akashgo",
       "title": "Akash Go",
       "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
-      "playlistUrl": "https://raw.githubusercontent.com/sajal620/livezone_tv/refs/heads/main/akash.m3u",
-      "enabled": true
-    },
-    {
-      "id": "akashgobd",
-      "title": "AkashGo BD",
-      "logo": "https://i.postimg.cc/zfMyXDmJ/akashgo.png",
-      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/akash_go.m3u",
+      "playlistUrl": "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/Combined_Live_TV.m3u",
       "enabled": true
     },
     {
